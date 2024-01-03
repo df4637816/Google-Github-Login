@@ -1,5 +1,4 @@
 const router = require("express").Router();
-const { log } = require("console");
 const Post = require('../models/post-model')
 
 
